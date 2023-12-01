@@ -1,2 +1,8 @@
-Simulates a mini pokemon game using an ASCII based map. You defeat all the monsters "M" to  win "T" is treasures that you pick up
-Treasures not fully implemented yet. Map is randomly generated every playthrough
+# Mini Pokemon simulator in C++
+- Creates a grid in the terminal where the player can move around
+
+
+
+
+- Treasures marked T on the map can be collected. Functionalities not implemented
+- Monsters marked M on the map will initiate a battle sequence similar to that of the Pokemon games
