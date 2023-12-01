@@ -1,5 +1,5 @@
 # Battlemon
-##An ASCII map- based simulation of pokemon
+## An ASCII map - based simulation of Pokemon
 - You start with 3 default starter mons
 - Map spawns with treasures marked  T on the map and monsters marked M
   
